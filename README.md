@@ -1,1 +1,1 @@
-# Use ReactJs to build move website by Movie Database API
+# Use ReactJs to build move website using Movie Database API
