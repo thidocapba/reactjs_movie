@@ -1,1 +1,1 @@
-# Use ReactJs to build move website using Movie Database API
+# Mern stack Netflix app clone. React, Node.js, MongoDB movie application. Full Stack Netflix clone course for beginners using JWT, React Hooks, and Context API.
